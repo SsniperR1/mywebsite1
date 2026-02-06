@@ -55,7 +55,7 @@ a:hover{
 	line-height:1.6em;
 	padding-top:30px;
 	border:1px solid black;
-	background-image: url(css/images/i.jpg);
+	background-image: url('../css/images/i.jpg');
 }
 
 #showcase p{
@@ -101,5 +101,6 @@ a:hover{
 .container{
 	padding:1px solid;
 }
+
 
 
